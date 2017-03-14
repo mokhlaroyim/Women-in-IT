@@ -5543,5 +5543,5 @@ section:hover .small-item-carousel .owl-next{
 
 /* Custom CSS */
 .goog-te-menu-value {
-  display: inherit;
+  display: inherit !important;
 }
